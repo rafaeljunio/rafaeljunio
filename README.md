@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning ReactJS, React Native e Node JS
 - 📫 How to reach me: rafaeljunio7@gmail.com
-- 😄 Pronouns: him/his
 - ⚡ Fun fact: I am also a pharmacist
   
 <div align="center">
