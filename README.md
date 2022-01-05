@@ -1,5 +1,5 @@
 ### Hi I'm Rafael Junio 👋
-
+[![wakatime](https://wakatime.com/badge/user/1d48f0ba-89d0-40ec-a627-35f914240270.svg)](https://wakatime.com/@1d48f0ba-89d0-40ec-a627-35f914240270)
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning ReactJS, React Native e Node JS
 - 📫 How to reach me: rafaeljunio7@gmail.com
